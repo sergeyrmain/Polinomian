@@ -1,0 +1,2 @@
+# Polinomian
+CPP code
